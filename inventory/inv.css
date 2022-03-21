@@ -1,0 +1,15 @@
+/* body {
+    margin: 10px auto;
+    width :90%;
+} */
+
+form {
+    /* width: 30%; */
+    padding: 10px;
+    background: rgb(220, 220, 220);
+    border-radius: 10px;
+    /* border: 1px solid rgb(189, 189, 189); */
+    /* margin: 10px auto; */
+    margin: 30px ;
+        
+}
